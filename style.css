@@ -6,9 +6,7 @@
 
 :root{
     --game-background-color: #F6F6F6;
-    --gradient: linear-gradient(to right, #dd3e54, #6be585); 
-
-
+    --gradient: linear-gradient(to right, #faaca8, #ddd6f3); 
 }
 
 html{
